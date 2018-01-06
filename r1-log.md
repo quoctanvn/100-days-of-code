@@ -23,8 +23,16 @@ Now today I was trying to get back in the Git saddle for the following purpose:
 
 This took me over an hour to get it all wrong and decide I need a Git refresher.
 
--
--
+### R1D3 06-01-2018
+Working on my [issue#1](https://github.com/Web-Dev-Rich/fcc-pomodoro-clock/issues/1)
+
+I have resolved the issue of multiple setIntervals being set off when the Start/Stop button clicked and have now passed 17/29 tests. But The timer does not start again after stopping it so that needs more work. It is just working out the right program flow.
+
+I realise that I need to do a flowchart or something before I start coding a project in future else I just get in a muddle.
+
+Created a [issue#1 Git branch](https://github.com/Web-Dev-Rich/fcc-pomodoro-clock/tree/issue%231) to work on this issue and pushed to the remote repo with `git push --set-upstream origin issue#1`. Not sure of that was the right thing to do or if I should have just kept it local and pushed when resolved. The problem will be tidying it all up later - still good Git/GitHub practice.
+
+### R1D4 06-01-2018
 -
 -
 -
