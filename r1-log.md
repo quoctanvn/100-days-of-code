@@ -33,6 +33,10 @@ I realise that I need to do a flowchart or something before I start coding a pro
 Created a [issue#1 Git branch](https://github.com/Web-Dev-Rich/fcc-pomodoro-clock/tree/issue%231) to work on this issue and pushed to the remote repo with `git push --set-upstream origin issue#1`. Not sure of that was the right thing to do or if I should have just kept it local and pushed when resolved. The problem will be tidying it all up later - still good Git/GitHub practice.
 
 ### R1D4 06-01-2018
+Resolved the multiple `setInterval()` issue using many `console.log()` lines and functionality seems to work although not passing the reset test from [issue#1](https://github.com/Web-Dev-Rich/fcc-pomodoro-clock/issues/1)
+
+### R1D5 07-01-2018
+
 -
 -
 -
