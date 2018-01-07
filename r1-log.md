@@ -36,6 +36,10 @@ Created a [issue#1 Git branch](https://github.com/Web-Dev-Rich/fcc-pomodoro-cloc
 Resolved the multiple `setInterval()` issue using many `console.log()` lines and functionality seems to work although not passing the reset test from [issue#1](https://github.com/Web-Dev-Rich/fcc-pomodoro-clock/issues/1)
 
 ### R1D5 07-01-2018
+Taking a break from Pomodoro and have asked a question in Slack about my session/break incrementing/decrementing. It seems that each time reset is clicked the increment doubles for each click of the buttons! Weird - I wonder if it is something to do with variable scoping??
+
+I've set up my [Tic Tac Toe project on GitHub](https://github.com/Web-Dev-Rich/fcc-tictactoe). I started this a while ago from a tutorial.
+
 
 -
 -
