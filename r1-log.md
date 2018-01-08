@@ -46,12 +46,5 @@ After asking about my reset issue from yesterday in my [freeCodeCamp local meetu
 Now passed 23/29 tests. 3 of the remaining tests are about adding a beep sound when the countdown reaches zero. The others I'm not sure how to fix but the clock works OK so I'm not getting hung up about it.
 
 There are lots of things that could be tidied up/refactored but I want to move on. Might come back later to do it.
--
--
--
--
--
--
--
 
 ### R1D100 13-04-2018
