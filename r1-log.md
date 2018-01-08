@@ -40,8 +40,12 @@ Taking a break from Pomodoro and have asked a question in Slack about my session
 
 I've set up my [Tic Tac Toe project on GitHub](https://github.com/Web-Dev-Rich/fcc-tictactoe). I started this a while ago from a tutorial.
 
+### R1D6 08-01-2018
+After asking about my reset issue from yesterday in my [freeCodeCamp local meetup group](https://www.facebook.com/groups/free.code.camp.salisbury/) I have answer. Each time reset was clicked another set of event handlers was added on top of what was there and this had the effect of adding to the increment/decrement. I removed it from the reset function and just had it called once when the page loads.
 
--
+Now passed 23/29 tests. 3 of the remaining tests are about adding a beep sound when the countdown reaches zero. The others I'm not sure how to fix but the clock works OK so I'm not getting hung up about it.
+
+There are lots of things that could be tidied up/refactored but I want to move on. Might come back later to do it.
 -
 -
 -
